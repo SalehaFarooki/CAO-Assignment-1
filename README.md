@@ -1,3 +1,4 @@
+
 # CAO-Assignment-1 - Making your own 64 bit Operating System
 This repository holds the source code for a 64 bit Operating system following [this YouTube tutorial series](https://www.youtube.com/playlist?list=PLZQftyCk7_SeZRitx5MjBKzTtvk0pHMtp/).
 ## Prerequisites
@@ -22,3 +23,5 @@ While Typing the command in the Terminal, you have to specify where Qemu is loca
 ## Cleanup
 Remove the build-evironment image:
  - `docker rmi myos-buildenv -f`
+
+![1](https://user-images.githubusercontent.com/67058974/115120441-02402a80-9fc7-11eb-9718-26346feefb50.jpg)
