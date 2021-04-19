@@ -24,5 +24,7 @@ While Typing the command in the Terminal, you have to specify where Qemu is loca
 Remove the build-evironment image:
  - `docker rmi myos-buildenv -f`
 
+## Output
+
 ![output](https://user-images.githubusercontent.com/67058974/115207923-7c7ec500-a115-11eb-98dd-99bfa027cdf6.jpg)
 
